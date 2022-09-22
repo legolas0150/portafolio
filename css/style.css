@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+
+   
+    background:#f1eeef ;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: #086023;
+    margin-top: 100px;
+
+}
+
+section{
+    width: 100%;
+    height: 300px;
+    background: #5f3030;
+}
+
+
+h1:hover{
+    color: rgba(237, 241, 177, 0.133);
+
+    font-size: 100px;
+   
+}
+
+h2{
+    font-size:60PX;
+    color: #0c55ad;
+}   
+
+a img {
+    width: 50px;
+}
+
+#codigo{
+    width :100%;
+
+}
+#algoritmos{
+    background: url(../img/SAXOFON.jpg);
+    background-size: cover;
+    background-repeat: none ;
+    text-align: center;
+}
+
+#algoritmos h1{
+color: #fb8108f4;
+font-size: 40px;
+}
+
+#algoritmos button {
+    padding: 12px 40px;
+    font-size: 20px;
+    background: transparent; 
+    color: #181a03;
+    border: 2px solid #5608e7;
+    margin: 20px 10px; 
+}
